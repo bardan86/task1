@@ -1,0 +1,1 @@
+{"fname":"Ahmed","lname":"hossam","city":"alex","age":20}{"fname":"adel","lname":"ahmed","city":"Cairo","age":40}
